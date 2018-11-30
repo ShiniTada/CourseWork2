@@ -1,0 +1,19 @@
+﻿Сборка начата 11/19/2018 11:22:56 PM.
+     1>Проект "E:\University\course work 2\course\course\course.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Main.cpp
+         Main.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\University\course work 2\course\Debug\course.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\University\course work 2\course\Debug\course.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\University\course work 2\course\Debug\course.lib" /MACHINE:X86 Debug\Administrator.obj
+         Debug\AdministratorMenu.obj
+         Debug\Employee.obj
+         Debug\Main.obj
+         Debug\OpenClose.obj
+         Debug\User.obj
+         Debug\UserMenu.obj
+         course.vcxproj -> E:\University\course work 2\course\Debug\course.exe
+     1>Сборка проекта "E:\University\course work 2\course\course\course.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:05.14
